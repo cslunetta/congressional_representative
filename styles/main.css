@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background: #333;
+  color: white;
+}
+
+h1 {
+  font-size: 32px;
+  margin: 0%;
+}
+
+a {
+  color: turquoise;
+}
+
+article {
+  margin: 15px;
+}
+
+.rep__committees {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.committee {
+  margin: 20px;
+}
